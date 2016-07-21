@@ -1,0 +1,43 @@
+.articles article:nth-of-type(1) {
+  background-color: red;
+  font-family: arial;
+  font-size: 7px;
+  color: orange;
+  line-height: 7px;
+  padding: 0px;
+  border: solid black;
+  border-radius: 3px;
+}
+
+.articles article:nth-of-type(2) {
+  background-color: orange;
+  font-family: helvetica;
+  font-size: 9px;
+  color: yellow;
+  line-height: 9px;
+  padding: 3px;
+  border: solid black;
+  border-radius: 5px;
+}
+
+.articles article:nth-of-type(3) {
+  background-color: yellow;
+  font-family: sans-serif;
+  font-size: 11px;
+  color: green;
+  line-height: 11px;
+  padding: 5px;
+  border: solid black;
+  border-radius: 7px;
+}
+
+.articles article:nth-of-type(4) {
+  background-color: green;
+  font-family: cursive;
+  font-size: 13px;
+  color: blue;
+  line-height: 13px;
+  padding: 7px;
+  border: solid black;
+  border-radius: 9px;
+}
